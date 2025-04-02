@@ -1,5 +1,5 @@
 **KüberPõgenemistuba 2025**
-Osalejad on "lukustatud" serveriruumi ja peavad lahendama küberturvalisusega seotud ülesandeid, et "põgeneda". Iga ülesanne katab erinevat küberturvalisuse aspekti, sealhulgas paroolide murdmist, andmete krüpteerimist ja petturlike e-kirjade äratundmist.
+Osalejad on "lukustatud" serveriruumi ja peavad lahendama küberturvalisusega seotud ülesandeid, et "põgeneda". Iga ülesanne katab erinevat küberturvalisuse aspekti, sealhulgas paroolide murdmist, andmete krüpteerimist ja petturlike e-kirjade äratundmist. Tegemist on küberturvalisusega alustavatele inimestele, kes omavad väga madalaid teadmisi CTF-ist. 
 
 Õiged vastused
 Leia õige parool: **küber123**
