@@ -16,7 +16,7 @@ Leia peidetud sõnum pildist (Steganograafia) (dekrüpteerimisvõti = "s80-b5.5"
 
 Dekodeeri Base64 peidetud sõnum: **CyberStep2025**
 
-SQL-injectioni sisestus: **'' or '1'='1'** või **'admin' OR '1'='1'**
+SQL-injectioni sisestus: **'' or '1'='1'** või **admin' OR '1'='1**
 
 Leia salasõna JavaScripti konsoolist: **jaatisePassat**
 
